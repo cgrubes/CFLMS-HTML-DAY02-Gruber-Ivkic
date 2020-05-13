@@ -1,0 +1,27 @@
+div {
+	border-style: dotted; 
+	margin: 5px;
+}
+#third p {
+	display: none;
+	}
+h1
+	{display: none;
+	}
+	 
+/*#second div {
+	display: none;
+	}
+*/
+
+#fifth p{
+	display: none;
+}
+
+/*.right div image {
+	visibility: visible;
+	}*/
+
+h3 
+{display: none;
+}
