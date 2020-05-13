@@ -6,3 +6,9 @@ div {
 #first div > p {
 	font-size: 3em;
 }
+
+#fuss {
+	font-size: .5em;
+	color: grey;
+	text-align: center;
+}
